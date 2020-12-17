@@ -4,24 +4,36 @@
   
     
     <entry>
-      <title>My First Blog</title>
-      <link href="2020/12/11/My-First-Blog/"/>
-      <url>2020/12/11/My-First-Blog/</url>
+      <title>博客搭建小记</title>
+      <link href="2020/12/17/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/"/>
+      <url>2020/12/17/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%B0%8F%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[<h2 id="This-is-my-first-blog"><a href="#This-is-my-first-blog" class="headerlink" title="This is my first blog."></a>This is my first blog.</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="博客搭建小记"><a href="#博客搭建小记" class="headerlink" title="博客搭建小记"></a>博客搭建小记</h1><p>​    我从小就是一个喜欢读书的人，我的父母没有时间陪伴我但又不允许我在外面和朋友们玩乐，我又没有多少玩具，就只好读书。除了家，新华书店的地板是我小时候唯一的去处。我一直都是一个比较单纯的人，对政治、经济、历史、地理等都不开窍，所以我读书的种类并不杂，主要是文学类，以小说为主。</p><p>​    大概是书读得多了，心里的想法也很丰富，五年级在我表姐的带领下，接触了博客，一路走来，我也写了不少博客。这些博客分布在各个平台上，初期我使用的那些博客平台如今早已想不起来账号密码。后面所使用的一些博客我也都是以私密的形式在写，不向任何人开放，并且我每过一段时间就会对博客进行清理，每次点击删除键都有一种释然的感觉。</p><p>​    阴差阳错，我成了一个码农，码农都有自己的技术博客。这些年使用的一些博客平台很多都陆陆续续的停止服务，所以我最终选择了自己搭建一个博客。这之后我会用这个博客记录自己的码农历练之路，也会用来记录一些生活杂感。也希望能从这个博客达成“吾日三省吾身”的效果。</p><h2 id="近期计划"><a href="#近期计划" class="headerlink" title="近期计划"></a>近期计划</h2><ol><li>减重。19年4月我来澳洲的时候，体重是59kg，今年我的巅峰体重一度达到了72.8kg，经过一段时间的节食加锻炼，今早的体重是67.7kg。先定一个小目标，在31/12/2020的前，降到65kg。</li><li>把商品上传到Shopify和Ebay，把网店建设好。</li><li>学习安卓知识。</li><li>刷Leetcode。</li><li>继续远足，千里之行，始于足下。用AllTrails记录。</li></ol><p>2020接近尾声了，迷茫依然还是那些迷茫，我也依然是那个懦弱的人。假设的勇敢都是在想象之中，怕做错于是什么都不做。希望我能有改变吧。</p><p>也希望接下来能够有一个可以一起看书的人，可以一起看电影的人，可以一起远足的人。彼此独立，彼此真诚。希望…是女孩子…</p>]]></content>
       
       
+      <categories>
+          
+          <category> 一蓑烟雨任平生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="2020/12/11/hello-world/"/>
-      <url>2020/12/11/hello-world/</url>
+      <title>Testing Page</title>
+      <link href="2020/12/11/Testing%20Page/"/>
+      <url>2020/12/11/Testing%20Page/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Just for testing.</p>]]></content>
       
       
       
